@@ -1,23 +1,13 @@
-# site_restaurante
+# MakeBurger
 
-## Project setup
-
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
+### Para iniciar o Front-End:
 
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Para iniciar o Back-End:
 
 ```
-npm run build
+npm run backend
 ```
-
-### Customize configuration
-
-See [Configuration Reference](https://cli.vuejs.org/config/).
