@@ -4,7 +4,7 @@
       <img :src="logo" :alt="alt" id="logo">
     </router-link>
     <router-link to="/">Home</router-link> |
-    <router-link to="/montarburger">Monte seu Burger</router-link> |
+    <router-link to="/montarburger">Monte seu MakeBurger</router-link> |
     <router-link to="/pedidos">Pedidos</router-link><!--- |
     <router-link to="/trabalheConosco">Trabalhe Conosco</router-link>--->
   </div>
