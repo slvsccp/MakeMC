@@ -1,6 +1,6 @@
 <template>
   <div class="home-container">
-    <h1>Monte o seu Burger:</h1>
+    <h1>Monte o seu MakeBurger:</h1>
     <BurgerForm />
   </div>
 </template>
