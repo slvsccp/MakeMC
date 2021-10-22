@@ -87,6 +87,17 @@
       ],
       "status": "Solicitado",
       "id": 1
+    },
+    {
+      "nome": "Zeca",
+      "carne": "Picanha",
+      "pao": "Parmesão e Orégano",
+      "opcionais": [
+        "Cheddar",
+        "Cebola roxa"
+      ],
+      "status": "Solicitado",
+      "id": 2
     }
   ]
 }
