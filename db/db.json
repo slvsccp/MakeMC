@@ -79,25 +79,34 @@
   ],
   "burgers": [
     {
-      "nome": "Matheus",
-      "carne": "Veggie burger",
-      "pao": "Italiano Branco",
+      "nome": "Zeca",
+      "carne": "Maminha",
+      "pao": "3 Queijos",
       "opcionais": [
-        "Bacon"
+        "Cheddar",
+        "Pepino"
       ],
-      "status": "Solicitado",
+      "status": "Em produção",
       "id": 1
     },
     {
-      "nome": "Zeca",
-      "carne": "Picanha",
+      "nome": "Napoleão",
+      "carne": "Alcatra",
       "pao": "Parmesão e Orégano",
+      "opcionais": [],
+      "status": "Finalizado",
+      "id": 2
+    },
+    {
+      "nome": "Matheus",
+      "carne": "Picanha",
+      "pao": "3 Queijos",
       "opcionais": [
         "Cheddar",
         "Cebola roxa"
       ],
       "status": "Solicitado",
-      "id": 2
+      "id": 3
     }
   ]
 }
