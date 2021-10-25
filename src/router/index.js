@@ -17,7 +17,15 @@ const routes = [
     path: '/montarburger',
     name: 'MontarBurger',
     component: () =>
-      import(/* webpackChunkName: "pedidos" */ '../views/MontarBurger.vue')
+      import(/* webpackChunkName: "montarburger" */ '../views/MontarBurger.vue')
+  },
+  {
+    path: '/trabalheconosco',
+    name: 'trabalheConosco',
+    component: () =>
+      import(
+        /* webpackChunkName: "trabalheconosco" */ '../views/trabalheConosco.vue'
+      )
   }
 ]
 
