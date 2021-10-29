@@ -79,34 +79,23 @@
   ],
   "burgers": [
     {
-      "nome": "Zeca",
-      "carne": "Maminha",
-      "pao": "3 Queijos",
-      "opcionais": [
-        "Cheddar",
-        "Pepino"
-      ],
-      "status": "Em produção",
-      "id": 1
-    },
-    {
-      "nome": "Napoleão",
-      "carne": "Alcatra",
-      "pao": "Parmesão e Orégano",
-      "opcionais": [],
-      "status": "Finalizado",
-      "id": 2
-    },
-    {
       "nome": "Matheus",
-      "carne": "Picanha",
+      "carne": "Maminha",
       "pao": "3 Queijos",
       "opcionais": [
         "Cheddar",
         "Cebola roxa"
       ],
       "status": "Solicitado",
-      "id": 3
+      "id": 1
+    },
+    {
+      "nome": "Zeca",
+      "carne": "Alcatra",
+      "pao": "3 Queijos",
+      "opcionais": [],
+      "status": "Em produção",
+      "id": 2
     }
   ]
 }
